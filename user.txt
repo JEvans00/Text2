@@ -9,3 +9,5 @@ JE:button1,button2,button3,button4
 jevans39:button1,button2,button3,button4
 JEVANS39:button1,button2,button3,button4
 DELL XPS:button1,button2,button3,button4
+DELLXPS:button1,button2,button3,button4
+VSI:button1,button2,button3,button4
